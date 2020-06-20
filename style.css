@@ -14,9 +14,9 @@ body {
 .container {
   height: 87vh;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
-  margin-right: 100px;
+  margin-right: 20px;
 }
 
 .beatbox {
