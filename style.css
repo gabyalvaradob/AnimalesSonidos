@@ -19,6 +19,18 @@ body {
   margin-right: 20px;
 }
 
+@media (max-width:789px){
+  .container{
+    float: none;
+    height: auto;
+    flex-direction: column;
+  }
+  .beatbox{
+    width: 100%;
+
+  }
+}
+
 .beatbox {
   width: 550px;
   height: 550px;
